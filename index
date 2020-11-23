@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Project</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <div id="container">
+            
+       <section class='allItem' >
+              <div class="title-ti"><h1>اضغط على احد العنصر سيظهر هنا </h1>     </div>
+
+              <button class="zar"> <h2>اضغط هنا</h2></button>
+                 <div class="menu-item">
+              <ul class="menu">
+                         <li class='li-menu' > 
+                           عنصر عدد # 1
+                             <a  href="#" class="first">
+                            <i class="remove" >X</i>
+                           </a>
+                        </li>
+                  
+                        <li class='li-menu' > 
+                          عنصر عدد # 2
+                            <a  href="#" class="first">
+                           <i class="remove" >X</i>
+                          </a>
+                       </li>
+                 
+                       <li class='li-menu' > 
+                        عنصر عدد # 3
+                         <a  href="#" class="first">
+                        <i class="remove" >X</i>
+                       </a>
+                    </li>
+              
+                    <li class='li-menu' > 
+                     عنصر عدد # 4
+                      <a  href="#" class="first">
+                     <i class="remove" >X</i>
+                    </a>
+                 </li>
+           
+              </ul>
+              </div>
+              
+       </section>
+
+
+    </div>
+    
+
+
+
+ <script src="script.js"></script>   
+</body>
+</html>
